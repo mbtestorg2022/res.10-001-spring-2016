@@ -61,7 +61,7 @@ If you do not have access to the appropriate scanner needed for this assignment,
 Visual Index
 ------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Week 1 Visual Index (PDF)]({{< baseurl >}}/resources/mitres_10_001s16_vi_wk1)
+[Week 1 Visual Index (PDF)]({{< baseurl >}}/resources/mitres_10_001s16_vi_wk1)
 
 Summing Up
 ----------

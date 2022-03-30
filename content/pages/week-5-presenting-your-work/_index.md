@@ -43,7 +43,7 @@ Assignment
 Visual Index
 ------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Week 5 Visual Index (PDF)]({{< baseurl >}}/resources/mitres_10_001s16_vi_wk5)
+[Week 5 Visual Index (PDF)]({{< baseurl >}}/resources/mitres_10_001s16_vi_wk5)
 
 Summing Up
 ----------

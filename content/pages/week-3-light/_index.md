@@ -50,7 +50,7 @@ Think creatively about an unusual lighting method to photograph your object and 
 Visual Index
 ------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Week 3 Visual Index (PDF)]({{< baseurl >}}/resources/mitres_10_001s16_vi_wk3)
+[Week 3 Visual Index (PDF)]({{< baseurl >}}/resources/mitres_10_001s16_vi_wk3)
 
 Summing Up
 ----------
