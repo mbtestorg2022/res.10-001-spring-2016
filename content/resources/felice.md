@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: e4e75018-67ee-17ef-4b31-55a10ea56b67
 resourcetype: Image
 title: felice.jpg
 uid: 08c5d244-6b79-3e02-dd62-674dd8743e93
